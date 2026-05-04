@@ -21,6 +21,6 @@ I am an 18-year-old programmer based in the Netherlands with a strong drive to b
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/Nobe-Mol/](https://www.linkedin.com/in/nobe-mol-0606b6364/)) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobe-mol-0606b6364/)) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sedkety.github.io/Portfolio/)
 
